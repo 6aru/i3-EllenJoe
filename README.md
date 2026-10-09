@@ -75,8 +75,8 @@
 
 ```bash
 git clone https://github.com/6aru/i3-EllenJoe.git
-cp -r i3-EllenJoe/i3 i3-EllenJoe/polybar ~/.config/
-cp i3-EllenJoe/picom.conf i3-EllenJoe/starship.toml i3-EllenJoe/lxterminal.conf ~/.config/
+cp -r i3-EllenJoe/i3 i3-EllenJoe/polybar i3-EllenJoe/picom ~/.config/
+cp i3-EllenJoe/starship.toml i3-EllenJoe/lxterminal.conf ~/.config/
 cp -r i3-EllenJoe/ranger i3-EllenJoe/neofetch ~/.config/
 cp i3-EllenJoe/.bashrc i3-EllenJoe/.vimrc ~/
 cp i3-EllenJoe/Wallpaper.jpg ~/Pictures/
