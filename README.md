@@ -1,4 +1,4 @@
-# A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
+A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
 
 <div align="center">
     
