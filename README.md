@@ -5,41 +5,69 @@
 
 > A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
 
-<div align="center">
-    
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png" width="48%" alt="i3 Tiled Layout" title="Lockscreen">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png" width="48%" alt="Polybar" title="i3wm & i3stastus bar">
-</a>
+ <div align="center">
 
-<br>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png" width="48%" alt="Dmenu" title="dmenu">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png" width="48%" alt="Terminal" title="Lxterminal, atuin & neofetch">
-</a>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180916.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180916.png" width="48%" alt="File-maneger" title="Superfile">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180949.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180949.png" width="48%" alt="Vim" title="SuperFile & Vim">
-</a>
-
-<br>
-
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T181110.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T181110.png" width="48%" alt="Browser" title="FireFox-esr">
-</a>
-<a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png" target="_blank">
-    <img src="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png" width="48%" alt="Power Menu" title="Reboot or Poweroff">
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180230.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180230.png" width="100%" alt="Lockscreen">
+      </a>
+      <sub>LOCKSCREEN</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180211.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180211.png" width="100%" alt="i3wm and i3status bar">
+      </a>
+      <sub>I3WM &amp; STATUS BAR</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180316.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180316.png" width="100%" alt="dmenu">
+      </a>
+      <sub>DMENU</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180410.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180410.png" width="100%" alt="Terminal">
+      </a>
+      <sub>TERMINAL</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180916.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180916.png" width="100%" alt="Superfile">
+      </a>
+      <sub>SUPERFILE</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T180949.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T180949.png" width="100%" alt="Superfile and Vim">
+      </a>
+      <sub>SUPERFILE &amp; VIM</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T181110.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T181110.png" width="100%" alt="Firefox ESR">
+      </a>
+      <sub>FIREFOX ESR</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/6aru/i3-EllenJoe/blob/main/assets/Shots/Screenshot-20251026T182207.png">
+        <img src="https://github.com/6aru/i3-EllenJoe/raw/refs/heads/main/assets/Shots/Screenshot-20251026T182207.png" width="100%" alt="Power menu">
+      </a>
+      <sub>POWER MENU</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 ---
 
