@@ -1,3 +1,8 @@
+![WM](https://img.shields.io/badge/WM-I3-8caaee?style=for-the-badge&labelColor=414559)
+![THEME](https://img.shields.io/badge/THEME-CATPPUCCIN%20FRAPP%C3%89-ca9ee6?style=for-the-badge&labelColor=414559)
+![STARS](https://img.shields.io/github/stars/6aru/i3-EllenJoe?style=for-the-badge&label=STARS&color=81c8be&labelColor=414559)
+![FORKS](https://img.shields.io/github/forks/6aru/i3-EllenJoe?style=for-the-badge&label=FORKS&color=e5c890&labelColor=414559)
+
 > A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
 
 <div align="center">
@@ -35,8 +40,6 @@
 </a>
 
 </div>
-
-![wm](https://img.shields.io/badge/wm-i3-black) ![theme](https://img.shields.io/badge/theme-catppuccin%20frappé-8caaee)
 
 ---
 
