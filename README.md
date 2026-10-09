@@ -1,6 +1,4 @@
-# i3-EllenJoe
-
-A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
+# A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
 
 <div align="center">
     
@@ -38,9 +36,9 @@ A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), range
 
 </div>
 
----
-
 ![wm](https://img.shields.io/badge/wm-i3-black) ![theme](https://img.shields.io/badge/theme-catppuccin%20frappé-8caaee)
+
+---
 
 ## Install
 
