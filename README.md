@@ -52,7 +52,7 @@ cp i3-EllenJoe/Wallpaper.jpg ~/Pictures/
 chmod +x ~/.config/polybar/launch.sh ~/.config/ranger/scope.sh
 ```
 
-See the **[wiki](../../wiki)** for dependencies and the full keybind list — copying the files alone isn't enough, a few tools in here aren't widely pre-installed.
+See the **[wiki](../../wiki/Installation)** for dependencies, **[overview](../../wiki/Overview)** for the full keybind list — copying the files alone isn't enough, a few tools in here aren't widely pre-installed.
 
 ## What's in it
 
