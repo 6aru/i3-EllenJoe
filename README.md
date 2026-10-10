@@ -99,5 +99,5 @@ MIT — see [LICENSE](LICENSE).
 > Feel free to use this code—just make sure to credit me!
 
 <div align="center">
-<sub>if you found this repository useful, please consider leaving a ⭐</sub>
+<sub>If you found this repository useful, please consider leaving a ⭐</sub>
 </div>
