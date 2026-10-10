@@ -92,7 +92,7 @@ chmod +x ~/.config/polybar/launch.sh ~/.config/ranger/scope.sh
 See the **[wiki](../../wiki/Installation)** for dependencies, **[overview](../../wiki/Overview)** for the full keybind list — copying the files alone isn't enough, a few tools in here aren't widely pre-installed.
 
 ## What's in it
-> i3 · polybar · picom · ranger (Dracula colorscheme) · starship · neofetch · lxterminal · ble.sh · atuin · eza
+> i3 · polybar · picom · ranger (Dracula colorscheme) · starship · neofetch · lxterminal · ble.sh · atuin · eza · vim · bashrc
 
 ## License
 
