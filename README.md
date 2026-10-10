@@ -6,7 +6,7 @@
 > A Catppuccin Frappé–themed i3 setup.
 
 | ![](https://github.com/user-attachments/assets/34e79433-c870-489d-beee-a29cefd67c3c) | 
-| :---------------------------------------------------------------: |
+| :---------------------: |
 
  <div align="center">
 
