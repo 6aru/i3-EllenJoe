@@ -94,3 +94,9 @@ See the **[wiki](../../wiki/Installation)** for dependencies, **[overview](../..
 ## What's in it
 
 i3 · polybar · picom · ranger (Dracula colorscheme) · starship · neofetch · lxterminal · ble.sh · atuin · eza
+
+
+## License
+
+MIT — see [LICENSE](LICENSE).
+> Feel free to use this code—just make sure to credit me!
