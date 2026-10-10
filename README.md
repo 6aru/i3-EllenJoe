@@ -75,7 +75,6 @@
 
 </details>
 
----
 
 ## Install
 
