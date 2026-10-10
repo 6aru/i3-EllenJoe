@@ -3,7 +3,7 @@
 ![STARS](https://img.shields.io/github/stars/6aru/i3-EllenJoe?style=for-the-badge&label=STARS&color=81c8be&labelColor=414559)
 ![FORKS](https://img.shields.io/github/forks/6aru/i3-EllenJoe?style=for-the-badge&label=FORKS&color=e5c890&labelColor=414559)
 
-> A Catppuccin Frappé–themed i3 setup — polybar, picom (blur + fading), ranger, starship, neofetch, lxterminal.
+> A Catppuccin Frappé–themed i3 setup.
 
  <div align="center">
 
