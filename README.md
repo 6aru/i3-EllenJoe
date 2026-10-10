@@ -8,6 +8,9 @@
 | ![](https://github.com/user-attachments/assets/34e79433-c870-489d-beee-a29cefd67c3c) | 
 | :---------------------: |
 
+<details>
+<summary><b><code>Preview</code></b></summary>
+
  <div align="center">
 
 <table>
@@ -71,6 +74,7 @@
 
 </div>
 
+</details>
 
 ---
 
